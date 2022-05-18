@@ -1,0 +1,15 @@
+table {
+  table-layout: fixed;
+  width: 900px;
+  border-collapse: collapse;
+  border: 3px solid black;
+}
+
+th, td {
+  border: solid black;
+  font-size: 15em;
+  text-align: center;
+  vertical-align: text-top;
+  height: 300px;
+  width: 300px;
+}
